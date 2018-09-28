@@ -1,2 +1,2 @@
-# Predictive-Analytics-
+# Predictive-Analytics
 Machine Learning 
